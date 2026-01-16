@@ -1,0 +1,59 @@
+{
+  "originUrl": "https://sunfeastbakedcreations.com",
+  "aborted": false,
+  "lastCrawled": "https://sunfeastbakedcreations.com/",
+  "urls": [
+    {
+      "url": "https://sunfeastbakedcreations.com/home.html",
+      "source": "CRAWL",
+      "targetPath": "/home",
+      "id": "3f40f2db895b7acd5709422004272ba76961f630"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+      "source": "CRAWL",
+      "targetPath": "/privacy-policy",
+      "id": "18ba2eaa830a5672cab42906fabc52fc4b696d09"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+      "source": "CRAWL",
+      "targetPath": "/terms-of-use",
+      "id": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://sunfeastbakedcreations.com/",
+      "status": "301 Moved Permanently Redirect: https://sunfeastbakedcreations.com/home.html"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/content/sunfeast-baked-creations/in/en/home.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastbakedcreations.com/home.html"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/content/sunfeast-baked-creations/in/en/privacy-policy.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastbakedcreations.com/privacy-policy.html"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/content/sunfeast-baked-creations/in/en/terms-of-use.html",
+      "status": "301 Moved Permanently Redirect: https://sunfeastbakedcreations.com/terms-of-use.html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":4}",
+  "error": null
+}
