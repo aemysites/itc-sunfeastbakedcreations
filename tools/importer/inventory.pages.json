@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "name": "\"Article Page\"",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+          "uuid": "18ba2eaa830a5672cab42906fabc52fc4b696d09"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+          "uuid": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce"
+        }
+      ]
+    },
+    {
+      "name": "News Listing",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "uuid": "3f40f2db895b7acd5709422004272ba76961f630"
+        }
+      ]
+    }
+  ]
+}

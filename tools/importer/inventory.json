@@ -1,0 +1,193 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+          "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+          "uuid": "04ca5c7e-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+          "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+          "uuid": "18ba2eaa-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 176
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+          "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+          "uuid": "04ca5c7e-03-bb0e8fcd2d2ee3e0feefba5c63534a41739b8a09",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+          "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+          "uuid": "18ba2eaa-03-bb0e8fcd2d2ee3e0feefba5c63534a41739b8a09",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(10, 21, 62) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "unknown",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-02-d5eedff947ca10d7ac5b25e0bf86cbd815249073",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+          "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+          "uuid": "04ca5c7e-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+          "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+          "uuid": "18ba2eaa-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-00-7fbf9f0eb64fa78247e2a7b7572f4c008eaee785",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+          "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+          "uuid": "04ca5c7e-02-4bd57f30c2ac5b99e0c2df6e9f2fe4fa1657c414",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+          "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+          "uuid": "18ba2eaa-02-4bd57f30c2ac5b99e0c2df6e9f2fe4fa1657c414",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastbakedcreations.com/home.html",
+          "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+          "uuid": "3f40f2db-03-cd2de624c1a4638837dd3109634378f0c8197c4a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+      "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+      "uuid": "04ca5c7e-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/terms-of-use.html",
+      "urlHash": "04ca5c7e036cde2c50f7e2ab01ffcb9e0e7d24ce",
+      "uuid": "04ca5c7e-03-bb0e8fcd2d2ee3e0feefba5c63534a41739b8a09",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+      "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+      "uuid": "18ba2eaa-01-50f7171d5cafce5c552b328c24faeb4602c26936",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/privacy-policy.html",
+      "urlHash": "18ba2eaa830a5672cab42906fabc52fc4b696d09",
+      "uuid": "18ba2eaa-03-bb0e8fcd2d2ee3e0feefba5c63534a41739b8a09",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastbakedcreations.com/home.html",
+      "urlHash": "3f40f2db895b7acd5709422004272ba76961f630",
+      "uuid": "3f40f2db-04-5415b01642d520dc0c931cdec2a9adbef72d22c6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(70, 63, 152) none no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(10, 21, 62) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    }
+  ]
+}
